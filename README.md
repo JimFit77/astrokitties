@@ -1,0 +1,2 @@
+# astrokitties
+my first nft
